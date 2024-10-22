@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @IvPetGamer1237
+- 👀 I’m interested in gnu/linux
+- 🌱 I’m currently learning using gnu/linux
+- ⚡ Fun fact: i use arch btw
